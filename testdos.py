@@ -1,6 +1,7 @@
 import time
 import paramiko
 # configurar dirreciones a conectar#
+
 ip_addresses = ["192.168.183.10", "192.168.183.20", "192.168.183.101",
 "192.168.183.102", "192.168.183.133"]
 
